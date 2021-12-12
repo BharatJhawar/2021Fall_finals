@@ -19,6 +19,7 @@ More and more households and businesses are moving to WiFi networks as their pre
 
 ## Requirements:
 Install pygame using `pip install pygame` in your python environment
+
 Other packages necessary are `numpy`, `pandas` and `matplotlib`
 
 
