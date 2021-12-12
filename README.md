@@ -17,6 +17,11 @@ More and more households and businesses are moving to WiFi networks as their pre
 
 **Aim:** To resolve this, we have come up with a possible solution to find how to achieve the optimal WiFi signal strength to all the connecting devices. 
 
+## Requirements:
+Install pygame using `pip install pygame` in your python environment
+Other packages necessary are `numpy`, `pandas` and `matplotlib`
+
+
 ## Code Implementation:
 
 * The project is implemented using a GUI module named _pygame_. Pygame is a Python module which incudes computer graphics and sound library designed to use with python programming language. It allow to write rich multimedia python program for every platform that supports them.
