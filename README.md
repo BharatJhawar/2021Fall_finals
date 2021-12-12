@@ -41,6 +41,10 @@ More and more households and businesses are moving to WiFi networks as their pre
 9. At the end of simulation, the program converses towards optimised wifi router position which is showed as a yellow cross on the layout.
 ![image](https://user-images.githubusercontent.com/40893179/145723450-960ad014-e560-4a5c-9566-662cc02ee6c1.png)
 
+The graph is to preview that with each iteration, the router gets closer to the optimal location as the sum of distances with all its access points keeps decreasing. The percentage of signal strength is also labelled in the the graph for each access point. This graph finding convergence proves the working of our Monte Carlo Simulation. 
+
+![image](https://user-images.githubusercontent.com/42794476/145723846-23f76fa8-0d2b-4d0c-a921-f2b6225a5b68.png)
+
 Entire simulation can be seen in the video linked below:
 
 https://user-images.githubusercontent.com/40893179/145723386-9d432abf-f221-444a-a9c1-8e7bab2437b1.mp4
